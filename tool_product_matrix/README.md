@@ -26,3 +26,6 @@
 * Рассмотреть возможность освоения высокорентабельных, но нишевых изделий, так называемой "техники специального назначения".
 
 ### [Дашборд](https://public.tableau.com/app/profile/gennadiy.iovchenko/viz/tool_product_matrix/sheet2?publish=yes)
+
+## Используемые инструменты
+*pandas, plotly, Tableau*
